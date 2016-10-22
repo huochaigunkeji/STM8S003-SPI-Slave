@@ -1,0 +1,107 @@
+[DebugChecksum]
+Checksum=-1343664424
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Simulator]
+Freq=16000000
+[watch_formats]
+Fmt0={W}1:Data	4	0
+Fmt1={W}1:OPT2_Value	4	0
+Fmt2={W}1:OptAddr	4	0
+Fmt3={W}1:ScrCloseTimeValue	3	0
+Fmt4={W}1:TimerValue	3	0
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "C:\Users\zcl\Desktop\无线收发代码\STM8S003工程\STM8S003工程\Libraries\STM8S_StdPeriph_Driver\src\stm8s_clk.c" ""
+A1=_ "C:\Users\zcl\Desktop\无线收发代码\STM8S003工程\STM8S003工程\Libraries\STM8S_StdPeriph_Driver\src\stm8s_gpio.c" ""
+A2=_ "C:\Users\zcl\Desktop\无线收发代码\STM8S003工程\STM8S003工程\Libraries\STM8S_StdPeriph_Driver\src\stm8s_uart1.c" ""
+A3=_ "D:\程序\STM8\定时器中断\Libraries\STM8S_StdPeriph_Driver\src\stm8s_gpio.c" ""
+A4=_ "E:\IAR FOR STM8\显示控制\STM8S003\STM8S003工程\Libraries\STM8S_StdPeriph_Driver\src\stm8s_uart1.c" ""
+A5=_ "F:\IAR\IAR For STM8\发射板\STM8S003-C15L\STM8S003工程\Projects\Project_template\src\uart.c" ""
+A6=_ "F:\单片机\STM8\PWM\1\Projects\Project_template\src\main.c" ""
+A7=_ "M:\STM8-项目\2013年 达创上班\资料\stm8svldiscovery_discover\STM8SVLDISCOVERY_Discover\Libraries\STM8S_StdPeriph_Driver\src\stm8s_gpio.c" ""
+A8=_ "M:\STM8-项目\2013年 达创上班\资料\stm8svldiscovery_discover\STM8SVLDISCOVERY_Discover\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim4.c" ""
+Count=9
+SuppressDialog=1
+[DebuggerSettings]
+DisableInterruptsWhenStepping=0
